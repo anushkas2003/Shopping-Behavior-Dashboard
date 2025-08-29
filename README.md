@@ -1,4 +1,5 @@
 Shopping Behavior Dashboard
+
 📌 Project Overview
 
 The Shopping Behavior Dashboard is a data visualization and analytics project designed to provide insights into customer shopping patterns, preferences, and behaviors. It helps businesses and analysts understand how customers interact with products, what drives purchases, and how demographics, spending, and frequency influence shopping trends.
